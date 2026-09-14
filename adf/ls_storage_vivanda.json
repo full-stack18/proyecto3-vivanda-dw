@@ -1,0 +1,6 @@
+{
+    "type": "AzureBlobFS",
+    "typeProperties": {
+        "url": "https://stvivandaasia.dfs.core.windows.net"
+    }
+}

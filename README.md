@@ -7,8 +7,8 @@ Ver /docs para el diseño completo: modelo OLTP, modelo dimensional y justificac
 
 ## Estado del proyecto
 - [x] Fase 1: Diseño de negocio y modelo de datos
-- [ ] Fase 2: Aprovisionamiento Azure
-- [ ] Fase 3: Construcción OLTP
+- [x] Fase 2: Aprovisionamiento Azure
+- [x] Fase 3: Construcción OLTP
 - [ ] Fase 4: Captura CDC a Bronze
 - [ ] Fase 5: Transformación dbt
 - [ ] Fase 6: Orquestación
