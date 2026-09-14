@@ -1,0 +1,15 @@
+﻿# Credenciales y configuración local
+*.env
+.env
+secrets.json
+connection-strings.txt
+
+# dbt
+dbt/target/
+dbt/logs/
+dbt/dbt_packages/
+
+# VS Code / SO
+.vscode/
+Thumbs.db
+.DS_Store
