@@ -9,7 +9,7 @@ Suscripción: Azure for Students (2d77f138-b08f-4d52-be73-3331bab1a442)
 | Storage Account (ADLS Gen2) | stvivandaasia | StorageV2, hierarchical namespace habilitado |
 | Contenedores | bronze, silver, gold | Arquitectura Medallion |
 | SQL Server | sql-vivanda-asia | Admin: vivandadmin |
-| SQL Database (OLTP) | VivandaAsia_OLTP | Tier S0 (Standard, 10 DTU), backup local |
+| SQL Database (OLTP) | VivandaAsia_OLTP | General Purpose Serverless (GP_S_Gen5_1), 0.5-1 vCore, autopause 60min. Migrado desde Standard S0 porque CDC no es compatible con tiers DTU por debajo de S3. |
 | Firewall | AllowMyIP, AllowAzureServices | Reglas de acceso |
 
 ## Notas
