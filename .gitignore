@@ -13,3 +13,4 @@ dbt/dbt_packages/
 .vscode/
 Thumbs.db
 .DS_Store
+adf/ls_sql_vivanda.json
