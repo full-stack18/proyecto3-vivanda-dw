@@ -24,3 +24,9 @@
 - La credencial de SQL en el linked service se maneja localmente
   (excluida de Git); en un entorno productivo real se usaria
   Azure Key Vault en su lugar
+
+## Synapse (preparacion para Fase 5)
+- Workspace: synw-vivanda-asia
+- SQL Pool: Serverless (Built-in, incluido por defecto, sin costo
+  de aprovisionamiento)
+- Storage asociado: contenedor synapsefs en stvivandaasia
